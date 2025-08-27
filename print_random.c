@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include "random.c"
+#include "random.h"
 
 
-int main(int argc, char** argv)
+int main (int argc, char** argv)
 {
 	int a;
 
